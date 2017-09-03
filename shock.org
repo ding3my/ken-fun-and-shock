@@ -21,3 +21,9 @@ refs https://www.zhihu.com/question/52095654
 https://pic4.zhimg.com/v2-f31945cc258218fd4b989c16986dbd77_b.jpg
 
 refs https://www.zhihu.com/question/52095654
+
+*** 阶级
+	
+[[./pics/阶级.png]]
+	
+refs https://www.zhihu.com/question/52095654
