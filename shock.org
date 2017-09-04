@@ -13,7 +13,7 @@ http://music.163.com/#/song?id=4878708
 
 [[./pics/举起手来.jpg]]
 
-refs https://www.zhihu.com/question/52138739/answer/130331531
+Refs https://www.zhihu.com/question/52138739/answer/130331531
 
 *** 拒绝行礼
 	
@@ -21,7 +21,7 @@ refs https://www.zhihu.com/question/52138739/answer/130331531
 
 [[./pics/拒绝行礼.jpg]]
 
-refs https://www.zhihu.com/question/52138739/answer/130331531
+Refs https://www.zhihu.com/question/52138739/answer/130331531
 
 *** 卖笔
 	
@@ -29,13 +29,13 @@ refs https://www.zhihu.com/question/52138739/answer/130331531
 
 [[./pics/卖笔.jpg]]
 
-refs https://www.zhihu.com/question/52138739/answer/130331531
+Refs https://www.zhihu.com/question/52138739/answer/130331531
 
 *** 拔云见日
 	
 [[./pics/拔云见日.jpg]]
 
-refs https://www.zhihu.com/question/52095654/answer/130054463
+Refs https://www.zhihu.com/question/52095654/answer/130054463
 
 *** 对视
 	
@@ -43,7 +43,7 @@ Horace Greasley
 
 [[./pics/对视.jpg]]
 
-refs https://www.zhihu.com/question/38178765/answer/86158923
+Refs https://www.zhihu.com/question/38178765/answer/86158923
 
 ** 20170903
    
@@ -51,13 +51,13 @@ refs https://www.zhihu.com/question/38178765/answer/86158923
 
 [[./pics/梦想的本质.jpg]]
 
-refs https://www.zhihu.com/question/52095654
+Refs https://www.zhihu.com/question/52095654
 
 *** 幸福生活
 
 [[./pics/幸福生活.jpg]]
 
-refs https://www.zhihu.com/question/52095654
+Refs https://www.zhihu.com/question/52095654
 
 *** 绊脚石
 	
@@ -65,19 +65,19 @@ refs https://www.zhihu.com/question/52095654
 
 [[./pics/绊脚石.jpg]]
 
-refs https://www.zhihu.com/question/52095654
+Refs https://www.zhihu.com/question/52095654
 
 *** 阶级
 	
 [[./pics/阶级.png]]
 	
-refs https://www.zhihu.com/question/52095654
+Refs https://www.zhihu.com/question/52095654
 
 *** 拿着步枪的巴勒斯坦女孩
 
 [[./pics/拿着步枪的巴勒斯坦女孩.jpg]]
 
-refs https://www.zhihu.com/question/38178765
+Refs https://www.zhihu.com/question/38178765
 
 *** 相册
 
@@ -85,16 +85,16 @@ refs https://www.zhihu.com/question/38178765
 
 [[./pics/四川汶川地震.jpg]]
 
-refs https://www.zhihu.com/question/38178765
+Refs https://www.zhihu.com/question/38178765
 
 *** 伊拉克战场回来的母亲
 	
 [[./pics/伊拉克战场回来的母亲.jpg]]
 
-refs https://www.zhihu.com/question/38178765
+Refs https://www.zhihu.com/question/38178765
 
 *** 华沙之跪
 
 [[./pics/华沙之跪.jpg]]
 
-refs https://www.zhihu.com/question/38178765
+Refs https://www.zhihu.com/question/38178765
