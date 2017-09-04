@@ -1,5 +1,58 @@
 * shock
+** 20170904
+*** 女声一出，画龙点睛
+音乐 M08 Floating Museum 
+
+0400
+
+http://music.163.com/#/song?id=4878708
+
+*** 举起手来
+
+17. 举起手来
+
+[[./pics/举起手来.jpg]]
+
+refs https://www.zhihu.com/question/52138739/answer/130331531
+
+*** 拒绝行礼
+	
+22. 不惧淫威
+
+[[./pics/拒绝行礼.jpg]]
+
+refs https://www.zhihu.com/question/52138739/answer/130331531
+
+*** 卖笔
+	
+28. 最后的尊严
+
+[[./pics/卖笔.jpg]]
+
+refs https://www.zhihu.com/question/52138739/answer/130331531
+
+*** 拔云见日
+	
+[[./pics/拔云见日.jpg]]
+
+refs https://www.zhihu.com/question/52095654/answer/130054463
+
+*** 对视
+	
+Horace Greasley
+
+[[./pics/对视.jpg]]
+
+refs https://www.zhihu.com/question/38178765/answer/86158923
+
 ** 20170903
+   
+*** 梦想的本质
+
+[[./pics/梦想的本质.jpg]]
+
+refs https://www.zhihu.com/question/52095654
+
 *** 幸福生活
 
 [[./pics/幸福生活.jpg]]
