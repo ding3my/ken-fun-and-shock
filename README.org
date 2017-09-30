@@ -191,41 +191,7 @@ http://www.iqiyi.com/w_19rr3mpfp1.html
 https://www.zhihu.com/question/22855131/answer/26588920
 勇敢直面死亡。
 #+END_SRC
-** 游戏 Game
-游戏只是练习而已。
-
-版本控制后删除掉。
-*** 1991 FC 吞食天地2
-
-https://www.baidu.com/s?wd=吞食天地2%20fc
-#+BEGIN_SRC  
-VirtuaNes
-选项 - 图像设置 - 常规 - 显示帧数 勾选
-选项 - 模拟器 - 自动跳帧 勾选
-选项 - 模拟器 - 限制帧数 勾选 设置120
-选项 - 快捷键 - 即时存档和即时读档使用Esc取消
-
-百度 virtuanes 跳帧
-Tab切换帧速
-
-数据
-https://www.gamefaqs.com/nes/577333-tenchi-o-kurau-ii-shokatsu-koumei-den/faqs/41018
-
-隐藏道具
-百度 吞食天地2隐藏物品地详解 http://www.fxxz.com/gonglue/22901.html
-
-阵型
-https://tieba.baidu.com/p/553769432
-
-计谋
-http://www.youxicheng.net/tstd2/wenda_2266.html
-
-攻略
-http://www.acgwolf.com/viewthread.php?tid=50010
-
-4倍速8小时通关。
-
-头像
-https://tieba.baidu.com/p/2124963969#!/l/p1
-#+END_SRC
-
+* 变更历史
+** v0.2
+删除艺术-游戏分支。
+** v0.1 2017-09-30
