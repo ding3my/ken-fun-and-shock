@@ -1,2 +1,231 @@
 * Intro
 Something [[./fun.org][funny]] and [[./shock.org][shocking]].
+
+Something makes you powerful.
+* 艺术 Art
+https://en.wikipedia.org/wiki/The_arts#Classifications
+
+** 1 文学 Literature
+*** BC91 史记
+- http://so.gushiwen.org/guwen/book_5.aspx
+
+**** BC725 管仲
+#+BEGIN_SRC  
+七十列传·管晏列传 http://so.gushiwen.org/guwen/bookv_149.aspx
+
+仓廪实而知礼节，衣食足而知荣辱，上服度则六亲固。四维不张，国乃灭亡。下令如流水之原，令顺民心。
+#+END_SRC
+**** ?-BC243 魏无忌 信陵君
+#+BEGIN_SRC  
+七十列传·魏公子列传 http://so.gushiwen.org/guwen/bookv_164.aspx
+
+“始吾闻平原君贤，故负魏王而救赵，以称平原君。平原君之游，徒豪举耳，不求士也。无忌自在大梁时，常闻此两人贤，至赵，恐不得见。以无忌从之游，尚恐其不我欲也，今平原君乃以为羞，其不足从游。”
+#+END_SRC
+**** BC240 陆贾
+#+BEGIN_SRC  
+七十列传·郦生陆贾列传 http://so.gushiwen.org/guwen/bookv_184.aspx
+“居马上得之，宁可以马上治之乎？且汤武逆取而以顺守之，文武并用，长久之术也。昔者吴王夫差、智伯极武而亡；秦任刑法不变，卒灭赵氏。乡使秦已并天下，行仁义，法先圣，陛下安得而有之？”
+#+END_SRC
+**** ?-? 季布
+#+BEGIN_SRC  
+七十列传·季布栾布列传 http://so.gushiwen.org/guwen/bookv_187.aspx
+
+“樊哙可斩也！夫高帝将兵四十馀万众，困於平城，今哙柰何以十万众横行匈奴中，面欺！且秦以事於胡，陈胜等起。于今创痍未瘳，哙又面谀，欲摇动天下。”
+#+END_SRC
+**** ?-BC145 栾布
+#+BEGIN_SRC  
+七十列传·季布栾布列传 http://so.gushiwen.org/guwen/bookv_187.aspx
+
+“穷困不能辱身下志，非人也；富贵不能快意，非贤也。”
+#+END_SRC
+*** BC289 三国志
+- http://www.gushiwen.org/guwen/sanguo.aspx 有翻译
+- http://www.guoxue123.com/shibu/0101/00sgz/ 有备注
+
+#+BEGIN_SRC  
+才武绝人，莫之能害。博览群书，特好兵法，抄集诸家兵法，名曰接要，又注孙武十三篇，皆传於世。尝问许子将："我何如人？"子将不答。固问之，子将曰："子治世之能臣，乱世之奸雄。"太祖大笑。 —— 《三国志 卷一 魏书一 武帝纪第一》
+
+彧度绍终不能成大事，时太祖为奋武将军，在东郡，初平二年，彧去绍从太祖。 —— 《三国志 卷十 魏书十 荀彧荀攸贾诩传第十》
+
+董卓无道，甚于桀纣，天下皆怨之，虽资强兵，实一匹夫耳。今直刺杀之以谢百姓，然后据殽、函，辅王命，以号令天下，此桓文之举也。 —— 《三国志卷十 魏书十 荀彧荀攸贾诩传第十》
+
+夫曹公奉天子以令天下，其宜从一也。绍强盛，我以少众从之，必不以我为重。曹公众弱，其得我必喜，其宜从二也。夫有霸王之志者，固将释私怨，以明德於四海，其宜从三也。愿将军无疑！ —— 《三国志 卷十 魏书十 荀彧荀攸贾诩传第十》
+
+愚民不可计事。 —— 《三国志 卷十四 魏书十四 程郭董刘蒋刘传第十四》
+
+夫智者审于量主，故百举百全而功名可立也。袁公徒欲效周公之下士，而未知用人之机。多端寡要，好谋无决，欲与共济天下大难，定霸王之业，难矣！—— 《三国志 卷十四 魏书十四 程郭董刘蒋刘传第十四》
+
+然折而不挠，终不为下者，抑揆彼之量必不容己，非唯竞利，且以避害云尔。 —— 《三国志 卷三十二 蜀书二 先主传第二》
+
+身长八尺，每自比於管仲、乐毅，时人莫之许也。 —— 《三国志 卷三十五 蜀书五 诸葛亮传第五》
+
+霍去病以匈奴未灭，无用家为，令国贼非但匈奴，未可求安也。须天下都定，各反桑梓，归耕本土，乃其宜耳。益州人民，初罹兵革，田宅皆可归还，今安居复业，然后可役调，得其欢心。 —— 《三国志 卷三十六 蜀书六 关张马黄赵传第六》
+
+以明将军之英才，乘刘牧之懦弱；张松，州之股肱，以响应于内；然后资益州之殷富，冯天府之险阻，以此成业，犹反掌也。 —— 《三国志 卷三十七 蜀书七 庞统法正传第七》
+
+良田百顷，不在一亩，但有远志，不在当归也。 —— 《三国志 卷四十四 蜀书十四 蒋琬费祎姜维传第十四》
+
+策虽暗稚，窃有微志，欲从袁扬州求先君馀兵，就舅氏於丹杨，收合流散，东据吴会，报雠雪耻，为朝廷外藩。 —— 《三国志 卷四十六 吴书一 孙破虏讨逆传第一》
+
+丈夫生世，当带七尺之剑，以升天子之阶。今所志未从，奈何而死乎！ —— 《三国志 卷四十九 吴书四 刘繇太史慈士燮传第四》
+
+操虽讬名汉相，其实汉贼也。将军以神武雄才，兼仗父兄之烈，割据江东，地方数千里，兵精足用，英雄乐业，尚当横行天下，为汉家除残去秽。况操自送死，而可迎之邪？ —— 《三国志 卷五十四 吴书九 周瑜鲁肃吕蒙传第九》
+
+向察众人之议，专欲误将军，不足与图大事。今肃可迎操耳，如将军，不可也。何以言之？今肃迎操，操当以肃还付乡党，品其名位，犹不失下曹从事，乘犊车，从吏卒，交游士林，累官故不失州郡也。将军迎操，欲安所归？愿早定大计，莫用众人之议也。 —— 《三国志 卷五十四 吴书九 周瑜鲁肃吕蒙传第九》
+
+贫贱难可居，脱误有功，富贵可致。且不探虎穴，安得虎子？ —— 《三国志 卷五十四 吴书九 周瑜鲁肃吕蒙传第九》
+
+#+END_SRC
+** 2 绘画 Painting
+*** 1510 雅典学院 The School of Athens
+#+ATTR_HTML: :width 800
+[[./pics/painting/the-school-of-athens.jpg]]
+** 3 雕塑 Sculpture
+*** BC200 萨莫德拉克的胜利女神 The Winged Victory of Samothrace
+https://en.wikipedia.org/wiki/Winged_Victory_of_Samothrace
+
+[[https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Victoire_de_Samothrace_-_vue_de_trois-quart_gauche%2C_gros_plan_de_la_statue_%282%29.JPG/375px-Victoire_de_Samothrace_-_vue_de_trois-quart_gauche%2C_gros_plan_de_la_statue_%282%29.JPG]]
+
+** 4 音乐 Music
+*** 1990 吞食天地2
+http://music.163.com/#/album?id=34751271
+*** 2000 英雄无敌3 Heroes of Might and Magic III
+http://music.163.com/#/album?id=501358
+** 5 戏剧 Drama
+https://zh.wikipedia.org/wiki/戏剧
+*** 1602 哈姆雷特 Hamlet
+https://www.bilibili.com/video/av11012353/
+
+Benedict
+*** 2014 林檎博 年女的逆袭
+#+BEGIN_SRC  
+https://www.bilibili.com/video/av2800199/
+0500 葬列
+#+END_SRC
+** 6 舞蹈 Dance
+*** 2013 WDSF PD World Latin Samba
+https://www.youtube.com/watch?v=1e7EDPldTuw
+*** 2017 WDSF World Open Latin Total
+https://www.youtube.com/watch?v=CIwLz8PGiyk&t=1098s
+
+https://www.bilibili.com/video/av13539333/?from=search&seid=12725859499554335049
+
+** 7 歌曲 Song
+*** 2001 逃亡 孙燕姿
+我站在靠近天的顶端，张开手全部释放，用月光取暖，给自己力量。
+*** 2004 执着 许巍
+无法停止我内心的狂热，对未来的执着。
+*** 2005 向阳花 谢天笑
+向阳花，如果你只生长在黑暗下，向阳花，你会不会再继续开花？
+*** 2008 茶底世界 丢火车
+对我说永远永远，是不一样的生活。
+*** 2009 彩虹 张惠妹
+当天空灰暗，当气温失常，你用巨大的坚强，总能抵挡。
+*** 2010 阳光中的向日葵 马条
+它把头转了过去，就好像是为了一口咬断那套在它脖子上的、那牵在太阳手中的绳索。
+*** 2014 白兰鸽巡游记 丢火车
+他就在远方，不要停止追寻着他。
+** 建筑 Architecture
+#+BEGIN_SRC  
+建筑设计和室内设计的区别
+https://www.zhihu.com/search?type=content&q=建筑+设计+区别
+https://www.zhihu.com/question/36402757
+室内设计是建筑设计的分支。是建筑设计细化的结果。从本质上加，室内设计只是建筑设计在尺度上进一步细化的过程。也就是建筑设计考虑的是建筑和基地的关系，那室内设计考虑的是内部空间和建筑的关系。
+
+https://www.zhihu.com/search?type=content&q=室内+设计+奖项
+https://www.zhihu.com/question/52030582
+
+https://www.zhihu.com/search?type=content&q=建筑+设计+奖项
+https://www.zhihu.com/question/20103442/answer/13988033
+#+END_SRC
+*** 室内设计 Interior Design
+- https://www.andrewmartin.co.uk/design-awards
+- http://www.idea-tops.com/
+- http://www.apdc-awards.org/works/index/cid/5
+*** 建筑设计 Building Design
+- http://www.pritzkerprize.com/
+** 摄影 Photography
+#+BEGIN_SRC  
+摄影奖项
+https://www.zhihu.com/search?type=content&q=摄影+奖项
+https://www.zhihu.com/question/19961055
+#+END_SRC
+
+- https://www.worldpressphoto.org/collection/contests
+** 电影 Movie or Film
+*** 1995 攻壳机动队
+#+BEGIN_SRC  
+百度 攻壳机动队 1995
+http://www.le.com/ptv/vplay/1128428.html
+
+3200 潜水
+在束缚中伸展自我。 —— 草薙素子
+6030 战斗
+7730 眺望、微笑
+现在我该去哪里？ —— 草薙素子
+#+END_SRC
+*** 2002 攻壳机动队 SAC1
+#+BEGIN_SRC  
+https://bangumi.bilibili.com/anime/1564/play#28958
+12话 1830
+要在现实生活中拼搏，梦想才有意义，只是把自己投射到别人的梦想里的话，跟死又有什么两样？ —— 草薙素子
+#+END_SRC
+*** 2004 攻壳机动队2 无罪
+#+BEGIN_SRC  
+https://www.bilibili.com/video/av5048623/
+7730 战斗
+生死去来，棚头傀儡，一线断时，落落磊磊。
+9310 营救
+独步天下，吾心自洁，无欲无求，如林中之象。
+#+END_SRC
+*** 2008 空中杀手
+#+BEGIN_SRC  
+百度 空中杀手
+http://www.iqiyi.com/w_19rr3mpfp1.html
+
+015030 挑战
+即使是走过无数次的路，也能走到未曾踏足过的地方。
+正因为是走过无数次的路，景色才会变幻万千。
+
+经典影评
+https://www.zhihu.com/question/22855131/answer/26588920
+勇敢直面死亡。
+#+END_SRC
+** 游戏 Game
+游戏只是练习而已。
+
+版本控制后删除掉。
+*** 1991 FC 吞食天地2
+
+https://www.baidu.com/s?wd=吞食天地2%20fc
+#+BEGIN_SRC  
+VirtuaNes
+选项 - 图像设置 - 常规 - 显示帧数 勾选
+选项 - 模拟器 - 自动跳帧 勾选
+选项 - 模拟器 - 限制帧数 勾选 设置120
+选项 - 快捷键 - 即时存档和即时读档使用Esc取消
+
+百度 virtuanes 跳帧
+Tab切换帧速
+
+数据
+https://www.gamefaqs.com/nes/577333-tenchi-o-kurau-ii-shokatsu-koumei-den/faqs/41018
+
+隐藏道具
+百度 吞食天地2隐藏物品地详解 http://www.fxxz.com/gonglue/22901.html
+
+阵型
+https://tieba.baidu.com/p/553769432
+
+计谋
+http://www.youxicheng.net/tstd2/wenda_2266.html
+
+攻略
+http://www.acgwolf.com/viewthread.php?tid=50010
+
+4倍速8小时通关。
+
+头像
+https://tieba.baidu.com/p/2124963969#!/l/p1
+#+END_SRC
+
