@@ -1,7 +1,7 @@
 * 序言 Intro
-Something [[./fun.org][funny]] and [[./shock.org][shocking]].
+[[https://ding3my.github.io/ken-fun-and-shock/][Something gives you life force.]]
 
-Something gives you life force.
+Something [[./fun.org][funny]] and [[./shock.org][shocking]].
 * 历史
 Unreleased
 
