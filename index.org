@@ -5,23 +5,23 @@ Something [[./fun.org][funny]] and [[./shock.org][shocking]].
 * 历史
 Unreleased
 
+0.3 - 2017-10-10
+- Added 新增椎名林檎音乐会
+- Added 新增史记事件标题、三国志事件标题
+- Added 新增电影的stuff
+- Added 新增软件标题（二级）
+- Added 新增游戏标题（二级）
+- Removed 删除大师标题
+
 0.2 - 2017-10-07
-Removed 删除艺术-游戏分支
+- Removed 删除艺术-游戏标题
 
 0.1 - 2017-09-30
 * 艺术 Art
 https://en.wikipedia.org/wiki/The_arts#Classifications
 
-** 大师
-管仲 魏无忌 孙策 刘备
-
-姬重耳
-
-亚里士多德
-
-押井守 今敏 
 ** 1 文学 Literature
-*** BC91 史记
+*** BC91 史记 人物
 - http://so.gushiwen.org/guwen/book_5.aspx
 
 **** BC725 管仲
@@ -73,7 +73,14 @@ https://en.wikipedia.org/wiki/The_arts#Classifications
 
 “穷困不能辱身下志，非人也；富贵不能快意，非贤也。”
 #+END_SRC
-*** BC289 三国志
+*** 史记 事件
+Ref
+- 春秋战国编年史 http://www.sohu.com/a/143383972_685404
+**** BC354 围魏救赵
+stuff https://baike.baidu.com/item/围魏救赵/534529?fr=aladdin
+**** BC257 窃符救赵
+stuff https://zh.wikipedia.org/wiki/邯郸之战#.E7.AB.8A.E7.AC.A6.E6.95.91.E8.B6.99
+*** BC289 三国志 人物
 - http://www.gushiwen.org/guwen/sanguo.aspx 有翻译
 - http://www.guoxue123.com/shibu/0101/00sgz/ 有备注
 **** 141 程昱
@@ -181,14 +188,24 @@ http://www.guoxue123.com/shibu/0101/00sgz/043.htm
 
 “良田百顷，不在一亩，但有远志，不在当归也。”
 #+END_SRC
+*** 三国志 事件
+**** 195 平江东
+stuff https://zh.wikipedia.org/wiki/孙策平江东之战
+**** 208 赤壁之战
+stuff https://zh.wikipedia.org/wiki/赤壁之戰
+**** 217 汉中之战
+stuff https://zh.wikipedia.org/wiki/漢中之戰
 ** 2 绘画 Painting
 *** 1510 雅典学院 The School of Athens
+stuff https://en.wikipedia.org/wiki/The_School_of_Athens
+
 #+ATTR_HTML: :width 800
 [[./pics/painting/the-school-of-athens.jpg]]
 ** 3 雕塑 Sculpture
 *** BC200 萨莫德拉克的胜利女神 The Winged Victory of Samothrace
-https://en.wikipedia.org/wiki/Winged_Victory_of_Samothrace
-https://zh.wikipedia.org/wiki/萨莫色雷斯的胜利女神
+stuff
+- https://en.wikipedia.org/wiki/Winged_Victory_of_Samothrace
+- https://zh.wikipedia.org/wiki/萨莫色雷斯的胜利女神
 
 [[https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Victoire_de_Samothrace_-_vue_de_trois-quart_gauche%2C_gros_plan_de_la_statue_%282%29.JPG/375px-Victoire_de_Samothrace_-_vue_de_trois-quart_gauche%2C_gros_plan_de_la_statue_%282%29.JPG]]
 
@@ -199,13 +216,40 @@ http://music.163.com/#/song?id=4878708
 http://music.163.com/#/song?id=29774179
 ** 5 戏剧 Drama
 https://zh.wikipedia.org/wiki/戏剧
-*** 1602 哈姆雷特 Hamlet
+
+*** 2008 椎名林檎 林檎博2008
+https://www.bilibili.com/video/av4573825/
+
+stuff https://ja.wikipedia.org/wiki/Ringo_EXPO_08
+
+- 初恋倡女
+- 赌局
+*** 2011 东京事变 Discovery
+https://www.bilibili.com/video/av1705403/
+
+stuff https://zh.wikipedia.org/wiki/Discovery_(東京事變)
+
+印第安头饰
+- 今夜はから騒ぎ 今夜虚惊一场
+*** 2014 椎名林檎 林檎博2014
+https://www.bilibili.com/video/av2800199/
+
+[[https://ja.wikipedia.org/wiki/(生)林檎博'14_―年女の逆襲―#.E6.BC.94.E5.A5.8F][stuff]]
+
+- 葬列
+
+linux url编码解码 http://zhangzhibiao02005.blog.163.com/blog/static/37367820201291641114564/
+*** 2015 1602 哈姆雷特 Hamlet
 https://www.bilibili.com/video/av11012353/
 
 Benedict
+
+[[https://baike.baidu.com/item/%E5%93%88%E5%A7%86%E9%9B%B7%E7%89%B9/18867294][stuff]]
 ** 6 舞蹈 Dance
 *** 2013 WDSF PD World Latin Samba
 https://www.youtube.com/watch?v=1e7EDPldTuw
+
+http://www.worlddancesport.org/Athlete/Detail/Saverio_Loria-c171ef9b-b026-41d8-9e8a-9e140120478d
 ** 7 歌曲 Song
 *** 1995 M10 謡III-Reincarnation 
 http://music.163.com/#/song?id=4878710
@@ -266,6 +310,8 @@ https://www.zhihu.com/question/19961055
 - https://www.worldpressphoto.org/collection/contests
 ** 电影 Movie or Film
 *** 1995 攻壳机动队
+stuff https://zh.wikipedia.org/wiki/攻殼機動隊_(電影)
+
 #+BEGIN_SRC  
 百度 攻壳机动队 1995
 http://www.le.com/ptv/vplay/1128428.html
@@ -277,12 +323,16 @@ http://www.le.com/ptv/vplay/1128428.html
 那么，现在我该去哪里呢？网络无限宽广。  —— 草薙素子
 #+END_SRC
 *** 2001 千年女优
+stuff https://zh.wikipedia.org/wiki/千年女優
+
 #+BEGIN_SRC  
 https://www.bilibili.com/video/av2999222/?from=search&seid=1605471267957204440
 
 8200 我喜欢追寻着那个人的自己。 —— 原千代子
 #+END_SRC
 *** 2004 攻壳机动队2 无罪
+stuff https://ja.wikipedia.org/wiki/イノセンス
+
 #+BEGIN_SRC  
 https://www.bilibili.com/video/av5048623/
 7730 战斗
@@ -290,3 +340,78 @@ https://www.bilibili.com/video/av5048623/
 9130 独步天下，吾心自洁，无欲无求，如林中之象。
 #+END_SRC
 
+** 软件
+*** 1976 Emacs
+stuff https://en.wikipedia.org/wiki/Emacs
+*** 1984 GNU
+*** 1990 Office
+*** 1990 IMDb
+stuff https://en.wikipedia.org/wiki/IMDb
+*** 1991 Linux
+stuff https://zh.wikipedia.org/wiki/Linux
+*** 1995 Wiki
+*** 1995 Windows 95
+*** 1998 Windows 98
+*** 1997 Google搜索
+stuff https://zh.wikipedia.org/wiki/Google搜索
+*** 1999 QQ
+*** 2000 163邮箱
+*** 2001 Windows XP
+*** 2003 Autohotkey
+*** 2003 淘宝
+*** 2004 支付宝
+*** 2004 Firefox
+*** 2005 Git
+*** 2005 Youtube
+*** 2005 豆瓣
+stuff https://zh.wikipedia.org/wiki/豆瓣
+*** 2007 Virtualbox
+*** 2007 Android
+*** 2008 GitHub
+stuff https://zh.wikipedia.org/wiki/GitHub
+*** 2009 Quora
+stuff https://en.wikipedia.org/wiki/Quora
+*** 2009 Stack Exchange
+stuff https://en.wikipedia.org/wiki/Stack_Exchange
+*** 2009 Windows 7
+*** 2010 网易公开课
+*** 2010 美团
+*** 2011 知乎
+*** 2011 微信
+stuff https://zh.wikipedia.org/wiki/微信
+*** 2012 Shadowsocks
+*** 2012 滴滴
+*** 2013 网易云音乐
+** 游戏
+*** 1991 FC 吞食天地2
+stuff https://ja.wikipedia.org/wiki/天地を喰らうII_諸葛孔明伝
+*** 1991 FC 重装机兵
+stuff https://zh.wikipedia.org/wiki/重装机兵_(游戏)
+*** 1998 GB 勇者斗恶龙 怪兽仙境
+stuff https://zh.wikipedia.org/wiki/勇者斗恶龙怪兽篇_特瑞仙境
+*** 1998 PC 星际争霸
+stuff https://en.wikipedia.org/wiki/StarCraft_(video_game)
+*** 1999 GB 口袋妖怪 金银
+stuff https://zh.wikipedia.org/wiki/精靈寶可夢_金·銀
+*** 1999 帝国时代2
+stuff https://en.wikipedia.org/wiki/Age_of_Empires_II
+*** 1999 英雄无敌3
+stuff https://en.wikipedia.org/wiki/Heroes_of_Might_and_Magic_III
+*** 2000 暗黑破坏神2
+stuff https://en.wikipedia.org/wiki/Diablo_II
+*** 2001 GBA 高级战争
+stuff https://en.wikipedia.org/wiki/Advance_Wars
+*** 2001 GBA 特鲁尼克大冒险2
+stuff https://en.wikipedia.org/wiki/Torneko:_The_Last_Hope
+*** 2002 GBA 火焰纹章 封印之剑
+stuff https://ja.wikipedia.org/wiki/ファイアーエムブレム_封印の剣
+*** 2003 GBA 火焰纹章 烈火之剑
+stuff https://ja.wikipedia.org/wiki/ファイアーエムブレム_烈火の剣
+*** 2003 GBA 牧场物语
+stuff https://en.wikipedia.org/wiki/Harvest_Moon:_Friends_of_Mineral_Town
+*** 2007 使命召唤4
+stuff https://en.wikipedia.org/wiki/Call_of_Duty_4:_Modern_Warfare
+*** 2009 使命召唤6
+stuff https://en.wikipedia.org/wiki/Call_of_Duty:_Modern_Warfare_2
+*** 2011 使命召唤8
+stuff https://en.wikipedia.org/wiki/Call_of_Duty:_Modern_Warfare_3
