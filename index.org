@@ -5,6 +5,7 @@ Something [[./fun.org][funny]] and [[./shock.org][shocking]].
 * 历史
 Unreleased
 - Updated 椎名林檎Discovery音乐会为高清链接
+- Updated 移动椎名林檎从戏剧到音乐-演唱会标题
 
 0.3 - 2017-10-10
 - Added 新增椎名林檎音乐会
@@ -211,28 +212,32 @@ stuff
 [[https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Victoire_de_Samothrace_-_vue_de_trois-quart_gauche%2C_gros_plan_de_la_statue_%282%29.JPG/375px-Victoire_de_Samothrace_-_vue_de_trois-quart_gauche%2C_gros_plan_de_la_statue_%282%29.JPG]]
 
 ** 4 音乐 Music
-*** 1995 M08 Floating Museum
+*** 单曲
+**** 1995 M08 Floating Museum
 http://music.163.com/#/song?id=4878708
-*** 2002 千代子のテ一マ MODE-2
+**** 2002 千代子のテ一マ MODE-2
 http://music.163.com/#/song?id=29774179
-** 5 戏剧 Drama
-https://zh.wikipedia.org/wiki/戏剧
+*** 演奏会 & 演唱会
+**** 2007 川井宪次 Cinema Symphony
+https://www.bilibili.com/video/av2331365/index_2.html#page=2
 
-*** 2008 椎名林檎 林檎博2008
+- 謡III-Reincarnation
+- 傀儡謡-阳炎は黄泉に待たむと(くぐつうた かげろうはよみにまたむと)
+**** 2008 椎名林檎 林檎博2008
 https://www.bilibili.com/video/av4573825/
 
 stuff https://ja.wikipedia.org/wiki/Ringo_EXPO_08
 
 - 初恋倡女
 - 赌局
-*** 2011 东京事变 Discovery
+**** 2011 东京事变 Discovery
 https://www.bilibili.com/video/av4579829
 
 stuff https://zh.wikipedia.org/wiki/Discovery_(東京事變)
 
 印第安头饰
 - 今夜はから騒ぎ 今夜虚惊一场
-*** 2014 椎名林檎 林檎博2014
+**** 2014 椎名林檎 林檎博2014
 https://www.bilibili.com/video/av2800199/
 
 [[https://ja.wikipedia.org/wiki/(生)林檎博'14_―年女の逆襲―#.E6.BC.94.E5.A5.8F][stuff]]
@@ -240,6 +245,10 @@ https://www.bilibili.com/video/av2800199/
 - 葬列
 
 linux url编码解码 http://zhangzhibiao02005.blog.163.com/blog/static/37367820201291641114564/
+
+** 5 戏剧 Drama
+https://zh.wikipedia.org/wiki/戏剧
+
 *** 2015 1602 哈姆雷特 Hamlet
 https://www.bilibili.com/video/av11012353/
 
