@@ -4,6 +4,7 @@
 Something [[./fun.org][funny]] and [[./shock.org][shocking]].
 * 历史
 Unreleased
+- Updated 椎名林檎Discovery音乐会为高清链接
 
 0.3 - 2017-10-10
 - Added 新增椎名林檎音乐会
@@ -225,7 +226,7 @@ stuff https://ja.wikipedia.org/wiki/Ringo_EXPO_08
 - 初恋倡女
 - 赌局
 *** 2011 东京事变 Discovery
-https://www.bilibili.com/video/av1705403/
+https://www.bilibili.com/video/av4579829
 
 stuff https://zh.wikipedia.org/wiki/Discovery_(東京事變)
 
