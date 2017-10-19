@@ -3,6 +3,7 @@ Unreleased
 - Updated 椎名林檎Discovery音乐会为高清链接
 - Updated 移动椎名林檎从戏剧到音乐-演唱会标题
 - Updated 修改历史标题和序言标题的顺序
+- Removed 删除funny和shocking在序言中的链接
 
 0.3 - 2017-10-10
 - Added 新增椎名林檎音乐会
@@ -21,7 +22,6 @@ Unreleased
 
 [[https://ding3my.github.io/ken-fun-and-shock/][Something gives you life force.]]
 
-Something [[./fun.org][funny]] and [[./shock.org][shocking]].
 * 艺术 Art
 https://en.wikipedia.org/wiki/The_arts#Classifications
 
