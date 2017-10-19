@@ -1,11 +1,8 @@
-* 序言 Intro
-[[https://ding3my.github.io/ken-fun-and-shock/][Something gives you life force.]]
-
-Something [[./fun.org][funny]] and [[./shock.org][shocking]].
 * 历史
 Unreleased
 - Updated 椎名林檎Discovery音乐会为高清链接
 - Updated 移动椎名林檎从戏剧到音乐-演唱会标题
+- Updated 修改历史标题和序言标题的顺序
 
 0.3 - 2017-10-10
 - Added 新增椎名林檎音乐会
@@ -19,6 +16,12 @@ Unreleased
 - Removed 删除艺术-游戏标题
 
 0.1 - 2017-09-30
+* 序言 Intro
+我喜欢追寻着那个人的自己。 —— 原千代子
+
+[[https://ding3my.github.io/ken-fun-and-shock/][Something gives you life force.]]
+
+Something [[./fun.org][funny]] and [[./shock.org][shocking]].
 * 艺术 Art
 https://en.wikipedia.org/wiki/The_arts#Classifications
 
