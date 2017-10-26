@@ -5,6 +5,7 @@ Unreleased
 - Updated 修改历史标题和序言标题的顺序
 - Removed 删除funny和shocking在序言中的链接
 - Updated 修改序言。 2017-10-26
+- Added 新增《空中杀手》。 2017-10-26
 
 0.3 - 2017-10-10
 - Added 新增椎名林檎音乐会
@@ -19,7 +20,7 @@ Unreleased
 
 0.1 - 2017-09-30
 * 序言 Intro
-- 我喜欢追寻着那个人的自己。 —— 原千代子 《千年女优》 今敏
+- 我喜欢追寻着那个人的自己。 —— 藤原千代子 《千年女优》 今敏
 - 缩句：我喜欢自己。
 - https://www.zhihu.com/question/30590530
 
@@ -344,7 +345,7 @@ stuff https://zh.wikipedia.org/wiki/千年女優
 #+BEGIN_SRC  
 https://www.bilibili.com/video/av2999222/?from=search&seid=1605471267957204440
 
-8200 我喜欢追寻着那个人的自己。 —— 原千代子
+8200 我喜欢追寻着那个人的自己。 —— 藤原千代子
 #+END_SRC
 *** 2004 攻壳机动队2 无罪
 stuff https://ja.wikipedia.org/wiki/イノセンス
@@ -356,6 +357,11 @@ https://www.bilibili.com/video/av5048623/
 9130 独步天下，吾心自洁，无欲无求，如林中之象。
 #+END_SRC
 
+*** 2008 空中杀手
+http://www.iqiyi.com/w_19rr3mpfp1.html
+
+- 014730 你要生存下去，在求得什么改变之前。
+- 015030 即使是走过无数次的路，也能走到从未踏足过的地方。正因为是走过无数次的路，景色才会变化万千。
 ** 软件
 *** 1976 Emacs
 stuff https://en.wikipedia.org/wiki/Emacs
