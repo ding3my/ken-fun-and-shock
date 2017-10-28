@@ -26,7 +26,7 @@ Unreleased
 0.1 - 2017-09-30
 * 序言 Intro
 - 8200 再怎么说，我真正爱的是追逐他的旅程。 —— 藤原千代子 《千年女优》 今敏
-- 8200 After all, it's the chasing after him I realy love.
+- 8200 After all, it's the chasing after him I really love.
 - https://www.zhihu.com/question/30590530
 
 * 艺术 Art
